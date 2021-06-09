@@ -4,4 +4,15 @@
   padding: 0;
 }
 
-// TODO
+:root{
+  --rosa: #ff57b2;
+  --heading: #f8f8f8;
+  --background: #1a1d23;
+  --info: #BBBBBB;
+  --body: #d7d7d7;
+}
+
+body{
+  background-color: var(--background);
+  color: var(--heading)
+}
